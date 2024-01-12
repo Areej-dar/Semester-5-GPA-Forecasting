@@ -5,7 +5,7 @@ Semester 5 GPA Forecasting
 The Semester 5 GPA Forecasting project aims to predict the SGPA and CGPA of students in their 5th semester using machine learning algorithms (Gradient Boosting Regressor, SVM Regressor, Random Forest, Linear Regressor and Voting Regressor). The project encompasses data preprocessing, exploratory data analysis (EDA), model development, data validation, deployment, and the development of a graphical user interface (GUI) for easy interaction.
 
 # Guidelines for using the Project
-Python 3.x
+Python 3.x ---
 Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn, Joblib, Scikit-Learn, Tkinter for GUI)
 
 # Project Structure
