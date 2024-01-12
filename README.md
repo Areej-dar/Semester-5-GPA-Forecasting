@@ -14,9 +14,9 @@ The project is organized as follows:
 
 testing_data: Contains the dataset used for testing.
 
-updated: Contains the dataset used for training and testing. 
+updated: Contains the dataset that is cleaned. 
 
-useful_features: Contains the dataset used for training. 
+useful_features: Contains the dataset used for training with removal of unnecessary features .
 
 ensemble_model.pkl: Stores trained ensemble model.
 
@@ -62,13 +62,13 @@ Ensure that the necessary Python libraries are installed.
 The project assumes that the required dataset is available in the folder.
 
 # Credits
-Mujtaba Zaidi (LinkedIn profile link) - Project Lead
+Mujtaba Zaidi https://www.linkedin.com/in/mujtaba-abbas-43406a206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app - Project Lead
 
-Farwa Rizvi - 
+Syeda Farwa Rizvi - https://www.linkedin.com/in/syeda-farwa-rizvi-a9a97621a/
 
-Mohsin Raza - 
+Mohsin Raza - https://www.linkedin.com/in/mohsin-raza-0a4814224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Areej Dar - 
+Areej Dar - https://www.linkedin.com/in/areej-ijaz-511896241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 # Conclusion
 This project provides a comprehensive solution for predicting student performance in the 5th semester. Users can interact with the model through a user-friendly GUI, making it accessible and easy to use. Feel free to explore the code, adapt it to your specific needs, and contribute to the project's enhancement.
