@@ -6,6 +6,7 @@ The Semester 5 GPA Forecasting project aims to predict the SGPA and CGPA of stud
 
 # Guidelines for using the Project
 Python 3.x
+
 Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn, Joblib, Scikit-Learn, Tkinter for GUI)
 
 # Project Structure
