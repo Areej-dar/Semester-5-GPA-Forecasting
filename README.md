@@ -12,7 +12,7 @@ Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn, Joblib, Scikit-Le
 # Project Structure
 The project is organized as follows:
 
-__pycache__: Contains the compiled Python file
+__ pycache __: Contains the compiled Python file
 <blockquote>
   
 dictionary.cpython-311: Compiled Python file indicating the Python version. 
