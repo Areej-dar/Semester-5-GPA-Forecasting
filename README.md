@@ -64,11 +64,11 @@ The project assumes that the required dataset is available in the folder.
 # Credits
 Mujtaba Zaidi https://www.linkedin.com/in/mujtaba-abbas-43406a206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app - Project Lead
 
-Syeda Farwa Rizvi - https://www.linkedin.com/in/syeda-farwa-rizvi-a9a97621a/
+Syeda Farwa Rizvi - https://www.linkedin.com/in/syeda-farwa-rizvi-a9a97621a/ - Developer
 
-Mohsin Raza - https://www.linkedin.com/in/mohsin-raza-0a4814224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Mohsin Raza - https://www.linkedin.com/in/mohsin-raza-0a4814224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app - Data Scientist
 
-Areej Dar - https://www.linkedin.com/in/areej-ijaz-511896241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Areej Dar - https://www.linkedin.com/in/areej-ijaz-511896241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app - DevOps
 
 # Conclusion
 This project provides a comprehensive solution for predicting student performance in the 5th semester. Users can interact with the model through a user-friendly GUI, making it accessible and easy to use. Feel free to explore the code, adapt it to your specific needs, and contribute to the project's enhancement.
