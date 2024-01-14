@@ -30,15 +30,15 @@ svr_model.pkl: Stores trained support vector regression model.
 
 code_file: The source code for the project.
 
-preprocessing: Code for data preprocessing.
+  preprocessing: Code for data preprocessing.
 
-exploratory_analysis: Code for EDA.
+  exploratory_analysis: Code for EDA.
 
-model_development: Code for predictive model development.
+  model_development: Code for predictive model development.
 
-data_validation: Code for validating the model with test data.
+  data_validation: Code for validating the model with test data.
 
-deployment: Code for deployment and GUI development.
+  deployment: Code for deployment and GUI development.
 
 # Running the Project
 Open the project directory in VS Code.
