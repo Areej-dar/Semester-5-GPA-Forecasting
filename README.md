@@ -34,6 +34,8 @@ rf_model.pkl: Stores trained random forest model.
 
 svr_model.pkl: Stores trained support vector regression model.
 
+tkinterGUI.py: Contains source code for the GUI.
+
 code_file: The source code for the project.
 
 <blockquote>
